@@ -3,6 +3,6 @@ title: Blog
 menu: {main: {weight: 30}}
 ---
 
-This is the **blog** section. It has two categories: News and Releases.
+Esta é a secção do **blog**. Tem duas categorias: Notícias e Lançamentos.
 
-Files in these directories will be listed in reverse chronological order.
+Os ficheiros nestes diretórios serão listados por ordem cronológica inversa.

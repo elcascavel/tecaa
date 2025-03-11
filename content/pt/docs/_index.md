@@ -1,28 +1,26 @@
 ---
-title: Documentation
+title: Documentação
 linkTitle: Docs
 menu: {main: {weight: 20}}
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+Esta é uma página temporária que mostra como utilizar este site modelo.
 {{% /pageinfo %}}
 
-This section is where the user documentation for your project lives - all the
-information your users need to understand and successfully use your project.
+Esta secção contém a documentação do utilizador para o teu projeto – toda a informação  
+necessária para que os utilizadores compreendam e utilizem o teu projeto com sucesso.
 
-For large documentation sets we recommend adding content under the headings in
-this section, though if some or all of them don’t apply to your project feel
-free to remove them or add your own. You can see an example of a smaller Docsy
-documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which
-lives in the [Docsy theme
-repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to
-copy its docs section.
+Para conjuntos de documentação extensos, recomendamos adicionar conteúdo sob os títulos  
+desta secção. No entanto, se alguns ou todos não se aplicarem ao teu projeto,  
+sente-te à vontade para removê-los ou adicionar os teus próprios. Podes ver um exemplo  
+de um site de documentação mais pequeno no [Guia do Utilizador do Docsy](https://docsy.dev/docs/),  
+que se encontra no [repositório do tema Docsy](https://github.com/google/docsy/tree/master/userguide)  
+caso queiras copiar a secção de documentação.
 
-Other content such as marketing material, case studies, and community updates
-should live in the [About](/about/) and [Community](/community/) pages.
+Outro tipo de conteúdo, como material de marketing, estudos de caso e atualizações da  
+comunidade, deve estar nas páginas [Sobre](/about/) e [Comunidade](/community/).
 
-Find out how to use the Docsy theme in the [Docsy User
-Guide](https://docsy.dev/docs/). You can learn more about how to organize your
-documentation (and how we organized this site) in [Organizing Your
-Content](https://docsy.dev/docs/best-practices/organizing-content/).
+Descobre como utilizar o tema Docsy no [Guia do Utilizador do Docsy](https://docsy.dev/docs/).  
+Podes aprender mais sobre como organizar a tua documentação (e como organizámos este site)  
+em [Organizar o Teu Conteúdo](https://docsy.dev/docs/best-practices/organizing-content/).
