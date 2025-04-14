@@ -14,7 +14,7 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-The Understandable principle is the third of the four principles of the Web Content Accessibility Guidelines (WCAG).
+The **Understandable** principle is the third of the four principles of the Web Content Accessibility Guidelines (WCAG).
 This principle follows Clear Web Content, which ensures that your web site has:<br>
 **•	Readable Text;**<br>
 **•	Predictable Navigation;**<br>

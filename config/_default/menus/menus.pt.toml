@@ -34,10 +34,6 @@
 # url = "pt/docs/1.0/prologue/introduction/"
   weight = 10
 
-[[main]]
-  name = "Blog"
-  url = "/blog/"
-  weight = 30
 
 # [[social]]
 #   name = "X"
@@ -62,11 +58,6 @@
 #   name = "Guias"
 #   pageRef = "pt/docs/guides"
 #   weight = 10
-#
-# [[sidebar_docs]]
-#   name = "Referências"
-#   pageRef = "pt/docs/reference"
-#   weight = 20
 #
 # [[sidebar_docs]]
 #   name = "Recursos"
