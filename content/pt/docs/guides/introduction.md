@@ -29,7 +29,7 @@ O texto deve ser legível e compreensível, com **significados claros** para ter
 "Os utilizadores devem autenticar-se utilizando as suas credenciais designadas para aceder ao portal."<br><br>
 ✅ **Bom Exemplo:**<br>
 "Inicie sessão com o seu nome de utilizador e palavra-passe para aceder à sua conta."<br><br>
-**Dicas Principais** para Texto Legível:<br>
+### **Dicas Principais** para Texto Legível:<br>
 •	Use **linguagem simples** (evite palavras complexas).<br>
 •	Escreva **frases curtas** e **divida parágrafos longos**.<br>
 •	Forneça **definições** para termos técnicos, se necessário.<br>
@@ -44,7 +44,7 @@ Os websites devem ser construídos de forma consistente, para que os utilizadore
 •	A barra de navegação mantém-se no mesmo local em todas as páginas.<br>
 •	Os botões usam palavras consistentes (ex: o botão "Submeter", nunca muda para "Ir").<br>
 •	A barra de pesquisa e o menu mantêm-se iguais em todas as páginas.<br><br>
-**Dicas Principais** para Navegação Previsível:<br>
+### **Dicas Principais** para Navegação Previsível:<br>
 •	Mantenha o menu, botões e layout **consistentes** em todas as páginas.<br>
 •	Garanta que **links** e **botões** se comportam **como esperado** (ex: ícone do carrinho leva sempre ao carrinho).<br>
 •	Evite **mudanças inesperadas** no design, na linguagem ou no comportamento da navegação.<br>
@@ -59,11 +59,11 @@ Os formulários devem orientar os utilizadores, fornecendo instruções claras e
 "Confirme a sua palavra-passe escrevendo-a novamente abaixo."<br>
 •	Depois de submeter (se não coincidirem): O segundo campo é destacado com uma mensagem de erro:<br>
 "As palavras-passe não coincidem. Por favor, tente novamente."<br><br>
-**Dicas Principais** para Apoio na Introdução de Dados:<br>
+### **Dicas Principais** para Apoio na Introdução de Dados:<br>
 •	Forneça **instruções claras** antes da submissão (ex: requisitos da palavra-passe).<br>
 •	Mostre **mensagens de erro específicas** quando houver erros.<br>
 •	Utilize **pistas visuais** (como destacar o campo com erro).<br>
 •	Evite mensagens genéricas como "Ocorreu um erro" — **explique sempre o que precisa de ser corrigido**.<br><br>
 Em resumo, o princípio da compreensibilidade ajuda os desenvolvedores de websites a criar uma experiência mais acessível para o utilizador, permitindo que qualquer pessoa, independentemente das suas capacidades, compreenda e utilize o conteúdo digital.
 
-- Leia mais sobre o [Princípio da Compreensibilidade](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.2&showtechniques=312%2C315#principle3) no site do World Wide Web Consortium (W3C)
+-[Leia mais sobre o Princípio da Compreensibilidade no site do World Wide Web Consortium (W3C)](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.2&showtechniques=312%2C315#principle3) 
