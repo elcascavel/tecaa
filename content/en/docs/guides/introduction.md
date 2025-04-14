@@ -29,7 +29,7 @@ The text should be readable and understandable, with **clear meanings** for spec
 "Users should authenticate utilizing their designated credentials to access the portal."<br><br>
 ✅ **Good Example:**<br>
 "Log in with your username and password to access your account."<br><br>
-**Key Takeaways** for Readable Text:<br>
+### **Key Takeaways** for Readable Text:<br>
 •	Use **plain language** (avoid complex words).<br>
 •	Write **short sentences** and **break up large paragraphs**.<br>
 •	Provide **definitions** for specialized terms when necessary.<br>
@@ -44,7 +44,7 @@ Websites must be built in the same way and structure, so that users know what to
 •	The navigation bar stays in the same place on every page.<br>
 •	Buttons use consistent wording (e.g., always say "Submit" instead of switching to "Go").<br>
 •	The search bar and menu options remain the same across pages.<br><br>
-**Key Takeaways** for Predictable Navigation:<br>
+### **Key Takeaways** for Predictable Navigation:<br>
 •	Keep the menu, buttons, and layout **consistent** across all pages.<br>
 •	Ensure that **links** and **buttons** behave **as expected** (e.g., a shopping cart icon should always take users to their cart).<br>
 •	Avoid **sudden changes** in design, wording, or navigation behavior.<br>
@@ -59,11 +59,11 @@ Forms can guide users by giving them clear instructions and useful error message
 "Confirm your password by retyping it below."<br>
 •	After submission (if they don’t match): The second field is highlighted with an error message:
 "Passwords do not match. Please try again."<br><br>
-**Key Takeaways** for Input Assistance:<br>
+### **Key Takeaways** for Input Assistance:<br>
 •	Provide **clear instructions** before submission (e.g., password requirements).<br>
 •	Show specific **error messages** when users make mistakes.<br>
 •	Use **visual hints** (like highlighting the field) to indicate errors.<br>
 •	Avoid generic errors like "Something went wrong", always **tell the user what needs to be fixed**.<br><br>
 In summary, the understandable principle helps websites developers to create a more accessible experience for the user, enabling any individual, regardless of their abilities, to understand and utilize the digital content. 
 
-- Read [about the Understandable Principle](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.2&showtechniques=312%2C315#principle3) in the World Wide Web Consortium (W3C) framework
+- [Read about the Understandable Principle in the World Wide Web Consortium (W3C) framework](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.2&showtechniques=312%2C315#principle3) 
