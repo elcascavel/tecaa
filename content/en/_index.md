@@ -1,7 +1,7 @@
 ---
 title: "Welcome to TECCA"
 description: ""
-lead: "Congrats on setting up a new Doks project!"
+lead: "This website was created to be simple, accessible, and easy to understand by anyone."
 date: 2023-09-07T16:33:54+02:00
 lastmod: 2023-09-07T16:33:54+02:00
 draft: false

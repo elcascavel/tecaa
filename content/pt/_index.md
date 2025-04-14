@@ -1,7 +1,7 @@
 ---
-title: "Bem-vindo ao Doks"
+title: "Bem-vindo a TECAA"
 description: ""
-lead: "Congrats on setting up a new Doks project!"
+lead: "Este site foi criado para ser simples, acessível e fácil de entender por qualquer pessoa."
 date: 2023-09-07T16:33:54+02:00
 lastmod: 2023-09-07T16:33:54+02:00
 draft: false
