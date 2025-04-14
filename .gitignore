@@ -1,5 +1,38 @@
-/public
-resources/
+# Node modules (for npm/yarn installs)
 node_modules/
+
+# Hugo output directory
+public/
+resources/
+hugo_stats.json
+
+# Hugo cache
+.cache/
+assets/js/bundle.js
+
+# Build artifacts
+dist/
+*.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Log files
+*.log
+
+# Environment files
+.env
+.env.*.local
+.env.local
+
+# NPM package lock files (optional if you commit them)
 package-lock.json
-.hugo_build.lock
+yarn.lock
+pnpm-lock.yaml

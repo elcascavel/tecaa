@@ -1,8 +1,19 @@
 ---
-title: Blog
-menu: {main: {weight: 30}}
+title: "Blog"
+description: ""
+summary: ""
+date: 2023-09-07T16:21:44+02:00
+lastmod: 2023-09-07T16:21:44+02:00
+draft: false
+weight: 50
+categories: []
+tags: []
+contributors: []
+pinned: false
+homepage: false
+seo:
+  title: "" # custom title (optional)
+  description: "" # custom description (recommended)
+  canonical: "" # custom canonical URL (optional)
+  robots: "" # custom robot tags (optional)
 ---
-
-Esta é a secção do **blog**. Tem duas categorias: Notícias e Lançamentos.
-
-Os ficheiros nestes diretórios serão listados por ordem cronológica inversa.
