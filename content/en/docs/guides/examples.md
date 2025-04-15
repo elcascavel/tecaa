@@ -113,5 +113,4 @@ When working on your own project, consider the following to meet the Understanda
 By comparing these examples, we see how crucial it is to design with clarity, consistency, and user guidance in mind — all pillars of the Understandable principle.
 
 - Read [more about the Understandable Principle](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.2&showtechniques=312%2C315#principle3)
-
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+  
