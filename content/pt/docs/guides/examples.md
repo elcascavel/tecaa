@@ -114,4 +114,3 @@ Estes exemplos mostram como é essencial desenhar com clareza, consistência e o
 
 - Lê mais sobre o [Princípio Compreensível](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.2&showtechniques=312%2C315#principle3)
 
-- Consulta os [guias de “como fazer”](https://diataxis.fr/how-to-guides/) no modelo Diátaxis
