@@ -68,13 +68,43 @@ When working on your own project, consider the following to meet the Understanda
 
 ## 📋 Quick Checklist: Is Your Website Understandable?
 
-| Feature                      | Good Practice                                  | Check? ✅ |
-|-----------------------------|-----------------------------------------------|----------|
-| Clear language              | Avoid jargon and technical terms              |          |
-| Consistent layout           | Menus, buttons, and links behave predictably  |          |
-| Helpful form instructions   | Users know what to do before they submit      |          |
-| Specific error messages     | Show what went wrong and how to fix it        |          |
-| Logical flow of content     | Headings and paragraphs guide the reader      |          |
+<table>
+  <caption>  </caption>
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>Good Practice</th>
+      <th>Check? ✅</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Clear language</td>
+      <td>Avoid jargon and technical terms</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Consistent layout</td>
+      <td>Menus, buttons, and links behave predictably</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Helpful form instructions</td>
+      <td>Users know what to do before they submit</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Specific error messages</td>
+      <td>Show what went wrong and how to fix it</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Logical flow of content</td>
+      <td>Headings and paragraphs guide the reader</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
