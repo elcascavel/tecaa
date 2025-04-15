@@ -69,7 +69,7 @@ When working on your own project, consider the following to meet the Understanda
 ## 📋 Quick Checklist: Is Your Website Understandable?
 
 <table>
-  <caption>  </caption>
+  <caption> . </caption>
   <thead>
     <tr>
       <th>Feature</th>
