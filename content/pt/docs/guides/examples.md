@@ -68,13 +68,43 @@ Ao desenvolveres o teu projecto, considera os seguintes pontos para respeitar o 
 
 ## 📋 Lista de Verificação Rápida: O teu site é compreensível?
 
-| Funcionalidade              | Boa prática                                     | Verificação ✅ |
-|----------------------------|--------------------------------------------------|----------------|
-| Linguagem clara            | Evitar termos técnicos e jargão desnecessário   |                |
-| Layout consistente         | Menus, botões e ligações com comportamento igual|                |
-| Instruções em formulários  | Os utilizadores sabem o que preencher antes de submeter |         |
-| Mensagens de erro claras   | Indicar o que falhou e como corrigir            |                |
-| Fluxo lógico do conteúdo   | Títulos e parágrafos guiam a leitura            |                |
+<table>
+  <caption> </caption>
+  <thead>
+    <tr>
+      <th>Funcionalidade</th>
+      <th>Boa Prática</th>
+      <th>Verificar? ✅</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Linguagem clara</td>
+      <td>Evitar jargões e termos técnicos</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Layout consistente</td>
+      <td>Menus, botões e links comportam-se de forma previsível</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Instruções úteis nos formulários</td>
+      <td>Os utilizadores sabem o que fazer antes de submeter</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Mensagens de erro específicas</td>
+      <td>Mostrar o que correu mal e como corrigir</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Fluxo lógico de conteúdo</td>
+      <td>Os títulos e parágrafos orientam o leitor</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
