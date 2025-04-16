@@ -15,82 +15,83 @@ seo:
 ---
 
 ## Introduction
-Ensuring that web content is understandable is a key aspect of web accessibility. Users, especially those with cognitive and learning disabilities, rely on clear and predictable content to navigate and comprehend digital information effectively. To maintain compliance with the Web Content Accessibility Guidelines (WCAG), it is essential to detect and address understandability issues. This can be done manually by experts and users, or automatically using accessibility evaluation tools.
 
-## Manual Detection of Understandability Issues
-Manual testing is crucial because some accessibility issues are subjective and require human judgment. This method allows testers to experience content as users do, ensuring that information is clear, consistent, and well-structured.
+Making sure websites are easy to read is very important. Some people, especially those with learning or thinking difficulties, need clear and simple words to understand information online. To follow the rules from the Web Content Accessibility Guidelines (WCAG), websites must be checked for how easy they are to understand. This can be done by people or with special tools.
 
-### Common Manual Testing Methods
-1. **Heuristic Evaluation**
-   - Experts review content against WCAG guidelines.
-   - Checks for jargon, complex sentence structures, and ambiguous phrasing.
-   
+## Checking If Content Is Easy to Understand (Manual)
+
+Sometimes, people must test websites by hand because computers can’t catch everything. Humans can tell if something sounds confusing or hard to read.
+
+### Ways People Test Websites
+1. **Expert Review**
+   - Experts check if the content follows WCAG rules.
+   - They look for hard words and long, confusing sentences.
+
 2. **User Testing**
-   - Real users, especially those with cognitive disabilities, assess readability and navigation ease.
-   - Feedback is gathered to improve content clarity and presentation.
-   
-3. **Content Readability Analysis**
-   - Ensures that language is simple and accessible.
-   - Readability tests, such as Flesch-Kincaid or Gunning Fog Index, are used to measure text complexity.
+   - Real users try the website, especially those with learning challenges.
+   - Their feedback helps make the site easier to use.
 
-### Tools for Manual Testing
-- **Hemingway Editor**: Highlights complex sentences and difficult words.
+3. **Readability Checks**
+   - These make sure words are simple and easy.
+   - Tools like Flesch-Kincaid scores tell how hard the text is to read.
+
+### Helpful Tools for Manual Testing
+- **Hemingway Editor**: Shows long sentences and hard words.
 
 <img src="/images/hemingway.gif" alt="Hemingway Tool Example Gif" width="700" style="display: block; margin: 0 auto;">
 
-
----
-
-
-- **Readability Formulas**: Online tools that assess reading difficulty levels.
+- **Readability Formulas**: These check how hard the writing is.
 
 <img src="/images/readabilityformulas.png" alt="Readibility Score Tools Examples" width="700" style="display: block; margin: 0 auto;">
 
-- **Browser Extensions**: Some extensions identify overly complex content and readability issues.
+- **Browser Extensions**: Some browser tools can find hard-to-read text.
 
-## Automatic Detection of Understandability Issues
-Automated tools can quickly analyze content and identify potential problems, making them useful for initial testing and large-scale evaluations.
+## Checking With Automatic Tools
 
-### Types of Automated Tools
+Computers can also check if a website is easy to read. These tools are fast and good for checking big websites.
+
+### Types of Automatic Tools
 1. **Linter Tools**
-   - Detect improper HTML and ARIA attributes that affect accessibility.
-   - Example: **axe-core**, **Lighthouse**.
+   - Find code problems that affect accessibility.
+   - Examples: **axe-core**, **Lighthouse**.
 
-2. **Readability Analyzers**
-   - Assess text complexity using algorithms.
-   - Example: **Readability Test Tool**, **Microsoft Word Readability Statistics**.
+2. **Readability Tools**
+   - Check how easy the text is.
+   - Examples: **Readability Test Tool**, **Microsoft Word** readability.
 
-3. **AI-Based Tools**
-   - Utilize machine learning to evaluate text clarity and content predictability.
-   - Example: **Grammarly’s clarity suggestions**, **LanguageTool**.
+3. **AI Tools**
+   - Use smart tech to help make writing easier to understand.
+   - Examples: **Grammarly**, **LanguageTool**.
 
-### Limitations of Automated Detection
-- Automated tools may not detect contextual readability issues.
-- Cannot fully assess user experience or intent.
-- Best used in combination with manual testing.
+### Limits of Automatic Tools
+- They can’t understand all meanings.
+- They can’t feel what a user feels.
+- They work best with people also checking.
 
-## Best Practices for Detection & Improvement
-- Combine manual and automatic methods for comprehensive evaluation.
-- Regularly update content to maintain clarity and avoid outdated terminology.
-- Use plain language and provide alternative formats, such as easy-read versions.
-- Follow WCAG recommendations and ensure predictable navigation.
+## Best Tips for Better Content
+- Use both people and tools to test websites.
+- Keep content up to date and easy to read.
+- Use plain words and give simple versions when needed.
+- Follow WCAG rules and make menus and pages work in expected ways.
 
-## Compliance Levels (A, AA, AAA)
+## WCAG Compliance Levels
+
 ### **Level A**
-- Content must not be overly technical or ambiguous.
-- Example: Avoiding acronyms without explanations.
+- Avoid using hard or tricky words.
+- Example: Don’t use short forms (like acronyms) without saying what they mean.
 
 ### **Level AA**
-- Ensuring consistent navigation and clear instructions.
-- Example: Providing definitions for uncommon terms.
+- Keep page layouts the same and give clear steps.
+- Example: Explain strange or special words.
 
 ### **Level AAA**
-- Requires highly readable content with supplementary explanations.
-- Example: Offering summaries for complex content or alternative easy-read versions.
+- Use very easy words and give extra help.
+- Example: Write short summaries for hard parts.
 
 ## Conclusion
-Detecting and resolving understandability issues is crucial for creating an inclusive web experience. Combining manual and automatic testing ensures compliance with WCAG standards and improves user experience for all audiences. By integrating accessibility testing into the development process, websites can become more usable, predictable, and comprehensible for everyone.
 
-## Further Reading
+Making content easy to understand helps everyone. Testing with people and tools can make sure your website follows the rules and is helpful for more users. If you check your content often, your website will be better for all kinds of visitors.
+
+## Learn More
 - [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/WAI/WCAG22/quickref/)
 - [Diátaxis Framework - How-To Guides](https://diataxis.fr/how-to-guides/)
