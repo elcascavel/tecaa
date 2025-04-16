@@ -14,43 +14,40 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-The **Understandable** principle helps make websites easier to read, navigate, and interact with for all users — especially those with disabilities or cognitive challenges.
+The **Understandable** principle helps make websites easy to read, use, and interact with — especially for people with disabilities or learning challenges.
 
-Here are two real-world examples showing how this principle is followed well and where it can be improved:
+Let’s look at two real websites. One does an excellent job. The other has room for improvement.
+
 
 ---
 
 ## ✅ Good Example: [IKEA – ikea.com](https://www.ikea.com/)
 
 IKEA’s website follows the Understandable principle in several ways:
-
-- **Readable Text**: Uses simple, plain language and avoids technical jargon.
-- **Predictable Navigation**: Menus are consistent across pages, and labels are clear and intuitive.
-- **Input Assistance**: Forms for checkout and search include clear instructions, and errors are easy to understand and fix.
+-	**Clear Language**: The site uses simple words and avoids complex terms.
+-	**Easy Navigation**: Menus look and work the same across all pages.
+-	**Helpful Forms**: Search and checkout forms give clear instructions and show easy-to-understand error messages.
 
 📌 **Why it works**:
-> The design is minimal and content is clearly structured. Users with assistive technologies can navigate efficiently, and new users can understand the site without needing a guide.
+> The design is clean, and the content is well-organized. People using screen readers or visiting the site for the first time can understand how it works without help.
 
 ---
 
 ## ❌ Bad Example: [European Parliament – europarl.europa.eu](https://www.europarl.europa.eu/portal/en)
 
-Despite its importance, the European Parliament website has been criticized for lacking accessibility:
-
-- **Overwhelming Layout**: Too much content on some pages, making it hard to follow.
-- **Inconsistent Design**: Elements and menu layouts vary between pages, making navigation unpredictable.
-- **Limited Input Guidance**: Forms lack clear instructions and error messages, making interaction harder for screen reader users and people with cognitive disabilities.
+Despite its importance, the European Parliament website does not follow the Understandable principle well. Here are the problems:
+- **Too Much Content**: Some pages are crowded and hard to read.
+- **Unclear Layout**: Menus and page designs change, making it hard to find things.
+- **Poor Form Help**: Forms do not explain what to do. Error messages are not clear.
 
 📌 **Why it fails**:
-> A 2022 accessibility audit gave it a low score (55.8/100), citing poor navigation for screen readers and an inconsistent user experience across pages.
+> A 2022 audit gave it a low score of 55.8 out of 100. It’s hard to use with a screen reader, and the design changes too much from page to page.
 
 ---
 
 ## 🧠 Why Examples Matter
 
-Seeing good and bad implementations helps us better understand how small choices in design and language can significantly affect accessibility.
-
-> The goal is not just to meet WCAG standards, but to create a genuinely inclusive and easy-to-use experience for all users.
+Good and bad examples help us see how small design choices can make a big difference. The goal isn’t just to meet rules. It’s to make websites truly easy for everyone to use.
 
 ---
 
@@ -58,11 +55,11 @@ Seeing good and bad implementations helps us better understand how small choices
 
 When working on your own project, consider the following to meet the Understandable principle:
 
-- ✅ Use **plain language** whenever possible.
-- ✅ Keep **navigation consistent** across all pages.
-- ✅ Offer **clear labels and instructions** for all form inputs.
-- ✅ Provide **specific and helpful error messages** (e.g., “Password must be at least 8 characters” instead of “Invalid input”).
-- ✅ Add **contextual help** (e.g., tooltips or icons) when extra explanation is needed.
+- ✅ Use plain, everyday language.
+- ✅ Keep menus and layouts the same on each page.
+- ✅ Add labels and tips to form fields.
+- ✅ Write error messages that explain what went wrong and how to fix it.
+- ✅ Use icons or tooltips when more help is needed.
 
 ---
 
@@ -79,28 +76,28 @@ When working on your own project, consider the following to meet the Understanda
   </thead>
   <tbody>
     <tr>
-      <td>Clear language</td>
-      <td>Avoid jargon and technical terms</td>
+      <td>Clear Language</td>
+      <td>Avoid technical terms and jargon.</td>
       <td></td>
     </tr>
     <tr>
-      <td>Consistent layout</td>
-      <td>Menus, buttons, and links behave predictably</td>
+      <td>Consistent Layout</td>
+      <td>Keep buttons and menus the same on all pages.</td>
       <td></td>
     </tr>
     <tr>
-      <td>Helpful form instructions</td>
-      <td>Users know what to do before they submit</td>
+      <td>Helpful Form Instructions</td>
+      <td>Tell users what to do before they submit.</td>
       <td></td>
     </tr>
     <tr>
-      <td>Specific error messages</td>
-      <td>Show what went wrong and how to fix it</td>
+      <td>Clear Error Messages</td>
+      <td>Say what went wrong and how to fix it.</td>
       <td></td>
     </tr>
     <tr>
-      <td>Logical flow of content</td>
-      <td>Headings and paragraphs guide the reader</td>
+      <td>Logical Content Flow</td>
+      <td>Use headings and clear paragraphs.</td>
       <td></td>
     </tr>
   </tbody>
@@ -110,7 +107,6 @@ When working on your own project, consider the following to meet the Understanda
 
 ## 📖 Further reading
 
-By comparing these examples, we see how crucial it is to design with clarity, consistency, and user guidance in mind — all pillars of the Understandable principle.
+When we design with clarity, consistency, and guidance in mind, we make better websites for everyone, not just for people without disabilities.
 
 - Read [more about the Understandable Principle](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.2&showtechniques=312%2C315#principle3)
-  
