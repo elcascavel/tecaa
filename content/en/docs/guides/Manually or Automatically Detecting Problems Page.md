@@ -16,7 +16,7 @@ seo:
 
 ## Introduction
 
-Making sure websites are easy to read is very important. Some people, especially those with learning or thinking difficulties, need clear and simple words to understand information online. To follow the rules from the Web Content Accessibility Guidelines (WCAG), websites must be checked for how easy they are to understand. This can be done by people or with special tools.
+It is very important to ensure that websites are easy to read. Some people, especially those with learning or thinking difficulties, need clear and simple words to understand information online. To follow the rules of the Web Content Accessibility Guidelines (WCAG), websites must be checked for ease of understanding. This can be done by people or with special tools.
 
 ## Checking If Content Is Easy to Understand (Manual)
 
@@ -61,7 +61,7 @@ Computers can also check if a website is easy to read. These tools are fast and 
 
 3. **AI Tools**
    - Use smart tech to help make writing easier to understand.
-   - Examples: **Grammarly**, **LanguageTool**.
+   - Examples: **Grammarly** and **LanguageTool**.
 
 ### Limits of Automatic Tools
 - They can’t understand all meanings.
@@ -70,7 +70,7 @@ Computers can also check if a website is easy to read. These tools are fast and 
 
 ## Best Tips for Better Content
 - Use both people and tools to test websites.
-- Keep content up to date and easy to read.
+- Keep content up-to-date and easy to read.
 - Use plain words and give simple versions when needed.
 - Follow WCAG rules and make menus and pages work in expected ways.
 
